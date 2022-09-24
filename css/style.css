@@ -357,6 +357,24 @@ margin-bottom: 20px;
     font-size: 0.9rem;
  
 }
+.scard1:hover, .scard2:hover, .scard3:hover {
+    width: calc(100% - 20px);
+    background-color: black;
+    
+}
+.scard1:hover .scrd1{
+    color: #ff5500;
+}
+.scard2:hover .scrd2{
+    color: #ff5500;
+}
+.scard3:hover .scrd3{
+    color: #ff5500;
+}
+.scard1:hover .scrd11, .scard2:hover .scrd22, .scard3:hover .scrd33{
+    color: white;
+}
+
 .mn{
     text-align: center;
     height: 464px;
