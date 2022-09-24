@@ -46,7 +46,7 @@ a{
 color: white;
 text-decoration: none;
 font-weight: 600;
-font-size: 1.2rem;       
+font-size: 1rem;       
  }
 
 
@@ -120,7 +120,7 @@ ul{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: 1fr;
-        grid-column-gap: 0px;
+        grid-column-gap: 32px;
         grid-row-gap: 0px;
         }
         
@@ -433,7 +433,7 @@ margin-bottom: 20px;
     
     text-align: center;
     position: relative;
-    top: 32px;
+    top: 48px;
 }
 .c11, .c22, .c33{
     width: 232px;
@@ -441,7 +441,7 @@ margin-bottom: 20px;
     background-color: #FFD230;
     border-radius: 50%;
     position: relative;
-    bottom: 56px;
+    bottom: 40px;
 }
 .c22{
     background-image: url(../image/philipp-wuthrich-5n3JP9WAJTs-unsplash.jpg);
@@ -465,14 +465,14 @@ margin-bottom: 20px;
     font-weight: 700;
     font-size: 1.2rem;
     position: relative;
-    bottom: 32px;
+    bottom: 16px;
   
   
 }
 .cmnti11, .cmnti22, .cmnti33{
     font-size: 0.9rem;
     position: relative;
-    bottom: 16px;
+    bottom: 8px;
 
 }
 
