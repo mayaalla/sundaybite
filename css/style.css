@@ -363,13 +363,13 @@ margin-bottom: 20px;
     
 }
 .scard1:hover .scrd1{
-    color: #ff5500;
+    color: #FFD230;
 }
 .scard2:hover .scrd2{
-    color: #ff5500;
+    color: #FFD230;
 }
 .scard3:hover .scrd3{
-    color: #ff5500;
+    color: #FFD230;
 }
 .scard1:hover .scrd11, .scard2:hover .scrd22, .scard3:hover .scrd33{
     color: white;
